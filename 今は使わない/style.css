@@ -1,0 +1,25 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+main{
+    width: 80%;
+    margin: 0 auto;
+}
+
+img{
+    vertical-align:top;
+}
+
+.topimg{
+    width: 450px;
+    height: 390px;
+    vertical-align:top;
+}
+
+.top{
+    display: flex;
+    margin: 0 auto;
+    margin-top: 0.5rem;
+}
